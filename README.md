@@ -58,13 +58,10 @@
 
 #### [_](http://MotDB.DBCLS.jp/?AJACS6#w593027b "w593027b") 講習 14:30-17:00 統合データベースプロジェクトで提供しているサービスの使い方実習  
 
-* 14:30-15:10 川本祥子（ライフサイエンス統合データベースセンター） 「生命科学横断検索の利用法」[解説編](http://MotDB.DBCLS.jp/?AJACS6%2Fskmt "AJACS6/skmt (3530d)")/[実践編](http://MotDB.DBCLS.jp/?AJACS6%2Fthecla "AJACS6/thecla (3530d)")  [【参考動画】](http://togotv.dbcls.jp/20080731.html)
+* 14:30-15:10 川本祥子（ライフサイエンス統合データベースセンター） 「生命科学横断検索の利用法」[解説編](01_kawamoto.md)/[実践編](02_nakazato.md)  [【参考動画】](http://togotv.dbcls.jp/20080731.html)
 * 15:10-15:30 金子聡子（お茶の水女子大学）「統合データベースプロジェクトにおける人材育成活動の紹介」
-* 15:30-15:50 小野浩雅（ライフサイエンス統合データベースセンター） [「統合TVによるDBCLS提供サービスなどのバイオデータベースとウェブツールの活用術」](http://MotDB.DBCLS.jp/?AJACS6%2Fhono "AJACS6/hono (3530d)")
+* 15:30-15:50 小野浩雅（ライフサイエンス統合データベースセンター） [「統合TVによるDBCLS提供サービスなどのバイオデータベースとウェブツールの活用術」](03_hono.md)
 * 15:50-16:00 休憩
-* 16:00-16:30 藤枝香（ライフサイエンス統合データベースセンター） [「アナトモグラフィー」](http://MotDB.DBCLS.jp/?AJACS6%2Ffujieda "AJACS6/fujieda (3531d)")
-* 16:30-17:00 中村保一（かずさDNA研究所） [「Kazusa Annotation Suiteの活用」](http://MotDB.DBCLS.jp/?AJACS6%2Fyn "AJACS6/yn (3530d)")
+* 16:00-16:30 藤枝香（ライフサイエンス統合データベースセンター） [「アナトモグラフィー」](04_fujieda.md)
+* 16:30-17:00 中村保一（かずさDNA研究所） [「Kazusa Annotation Suiteの活用」](05_nakamura.md)
 
----
-
-[![lifesciencedb.jp](http://dbcls.rois.ac.jp/img/lsdb.gif "lifesciencedb.jp")](http://lifesciencedb.jp/)
